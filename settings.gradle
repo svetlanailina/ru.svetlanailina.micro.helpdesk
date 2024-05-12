@@ -1,3 +1,4 @@
 rootProject.name = 'ru.svetlanailina.micro.helpdesk'
 includeBuild 'eureka-server'
+includeBuild 'eureka-client'
 
